@@ -7,8 +7,6 @@ Vom ersten Verdacht, über das erste Arztgespräch über die folgenden Facharztt
 
 Ein erster Anlaufpunkt in diesem Projekt sollte die Seite :doc:`fahrplan` sein. 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
 
 .. note::
 
