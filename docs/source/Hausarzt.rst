@@ -23,13 +23,15 @@ Informationen für den Arzt
 
 Informationspaket schnüren:
 
-.. |location_link| raw:: html
-
-   <a href="http://geoiptool.com" target="_blank">check your location here</a>
-
-* Scheibenbogen
+* Scheibenbogen MECFS `location_link`_ 
 * Bei LC zusätzlich: flyer maja strasser
 * ToDo: Flyer mit kurzen und knackigen Informationen
+
+.. |location_link| raw:: html
+
+   <a href="https://github.com/freesbie42/mecfs-kompass/blob/main/Dokumente/Scheibenbogen_MECFS_overview.pdf" target="_blank">Scheibenbogen MECFS</a>
+
+
 
 
 
